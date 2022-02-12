@@ -1,0 +1,27 @@
+.blue{
+	height: 500px;
+	width:500px;
+	background-color:blue;
+	border:10px solid black;
+}
+.green{
+	height: 400px;
+	width:400px;
+	background-color:green;
+	border: 10px solid black;
+	border:inherit;
+}
+.yellow{
+	height: 300px;
+	width:300px;
+	background-color:yellow;
+	border: 10px solid black;
+	border:inherit;
+}
+.red{
+	height: 200px;
+	width:200px;
+	background-color:red;
+	border: 10px solid black;
+	border:inherit;
+}

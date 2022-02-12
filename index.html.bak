@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+	<head>
+		<title>My list </title>
+		<meta charset="utf-8">
+		<link href="style.css" rel="stylesheet">
+	</head>
+	<body>
+	<div class="header">
+	<h1>My list</h1></div>
+	
+	<div class="colomn1 inline-block">
+	<ol>
+	<li>English</li>
+	<li>Biology</li>
+	<li>Maths</li>
+	<li>Economy</li>
+	<li>PT</li>
+	<li>Drawing lesson</li>
+	<li>Literature</li>
+	</ol></div>
+	<div class="colomn2 inline-block">
+<ul>
+		<li><div class="1">Spring months</div>
+	<ul>
+	<li>March</li>
+	<li>April</li>
+	<li>May</li>
+	</ul></li>
+		<li><div class="1">Summer months</div>
+	<ul>
+	<li>June</li>
+	<li>July</li>
+	<li>August</li>
+	</ul></li>
+		<li><div class="1">Autumn months</div>
+	<ul>
+	<li>September</li>
+	<li>Octomber</li>
+	<li>November</li>
+	</ul></li>
+		<li><div class="1">Winter months</div>
+	<ul>
+	<li>December</li>
+	<li>January</li>
+	<li>February</li>
+	</ul></li>
+</ul>
+	</div>
+<div class="footer"><h2>Made by Zhovnovsky Vlad</h2></div>	
+	</body>
+	</html>

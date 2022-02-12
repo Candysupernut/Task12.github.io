@@ -1,0 +1,45 @@
+.header{
+	background-color:lightblue;
+	height:90px;
+	width:100%;
+	text-align:center;
+	padding-top:20px;
+}
+
+.colomn2{
+	display:inline-block;
+	background-color:orange;
+	height:400px;
+	width:49%;
+}.colomn1{
+	display:inline-block;
+	background-color:yellow;
+	height:400px;
+	width:50%;
+}
+.fotter{
+	height:50px;
+	width:100%;
+	background-color:navy;
+	text-align:center;
+	padding:10px;
+	color:white;
+}
+.inline-block{
+	display:inline-block;
+}
+ol li:nth-child(2n){
+	font-weight:bold; 
+}
+ol li:first-child{
+	color:red;
+}
+ol li:nth-of-type(3) {
+	background:green;
+	width: 100px;
+}
+ol li:last-child{
+text-decoration:line-through;}
+ul li li{
+	color:red; 
+}
